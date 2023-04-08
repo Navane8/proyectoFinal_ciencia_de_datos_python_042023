@@ -1,0 +1,6 @@
+paymentsk,payment_type
+1,credit_card
+0,boleto
+4,voucher
+2,debit_card
+3,not_defined
