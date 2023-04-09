@@ -109,7 +109,7 @@ CREATE TABLE IF NOT EXISTS factable(
             
     CONSTRAINT fk_dimfechafk
         FOREIGN KEY (dimfechafk)
-            REFERENCES dimcalendar(dimfecha)
+            REFERENCES dimcalendar(dimfechapk)
 
 );
 
