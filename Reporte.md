@@ -1,6 +1,6 @@
 # Reporte de proyecto final 18001404
 
-### Video de presentación final: https://youtu.be/N7QnLU8XHbo 
+### Video de presentación final: https://youtu.be/RxsHZr-V60U 
 
 ## Obtención de fuente de datos:
 Los datos utilizados en el proyecto fueron obtenidos del sitio web de kaggle:
