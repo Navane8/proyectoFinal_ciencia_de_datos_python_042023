@@ -86,7 +86,10 @@ través de los servicios que ofrecen AWS Amazon utilizando Python.
 
 ![product](/imagen/productlimit.png)
 
-![ventas](/imagen/ventaslimit.png)
+![encabezado](/imagen/encabezadolimit.png)
+
+![detalle](/imagen/detallelimit5.png)
+
 
 ## Construcción de datawarehouse
 Se lleva a cabo las consultas en la base de datos que contiene el escenario del sistema original y se construyen las
